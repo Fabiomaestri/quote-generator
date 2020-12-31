@@ -63,7 +63,16 @@ async function getQuote(){
     newQuoteBtn.addEventListener('click', getQuote);
     twitterBtn.addEventListener('click', tweetQuote);
 
+
+
 }
+
+
+
+
+
+
+
 
 
 // on load
